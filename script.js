@@ -9,19 +9,19 @@ var cdiv2 = document.createElement('div')
 cdiv2.setAttribute('class', 'row')
 // parent content div which acts as cards
 var parentcontentdiv = document.createElement('div')
-parentcontentdiv.setAttribute('class', 'col-sm-4 col-md-4 col-lg-4')
+parentcontentdiv.setAttribute('class', 'col-sm-4 col-md-4 col-lg-4 col-fluid')
 
 var contentdiv = document.createElement('div')
 contentdiv.setAttribute('class', 'box-center text-center')
 
 var parentcontentdiv1 = document.createElement('div')
-parentcontentdiv1.setAttribute('class', 'col-sm-4 col-md-4 col-lg-4')
+parentcontentdiv1.setAttribute('class', 'col-sm-4 col-md-4 col-lg-4 col-fluid')
 
 var contentdiv1 = document.createElement('div')
 contentdiv1.setAttribute('class', 'box-center text-center')
 
 var parentcontentdiv2 = document.createElement('div')
-parentcontentdiv2.setAttribute('class', 'col-sm-4 col-md-4 col-lg-4')
+parentcontentdiv2.setAttribute('class', 'col-sm-4 col-md-4 col-lg-4 col-fluid')
 
 var contentdiv2 = document.createElement('div')
 contentdiv2.setAttribute('class', 'box-center text-center')
